@@ -5,7 +5,7 @@ Esta serie de desafios fueron cordialmente extraidos de https://codingbat.com/py
 ___
 <br>
 
-Para cumplir este desafio debes resolver las funciones que se encuentran dentro de `desafio.py` y para validar debes correr `python main.py`
+Para cumplir este desafio debes resolver las funciones que se encuentran dentro de `desafio.py` y para validar debes correr `python desafio.py`
 <br>
 Una vez que lo tengas resuelto sube tu solución en un archivo `solucion_.py` con el siguiente docstring:
 
